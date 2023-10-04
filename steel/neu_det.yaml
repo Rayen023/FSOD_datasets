@@ -1,0 +1,5 @@
+train: "images/train"
+val: "images/validation"
+
+nc: 6
+names: ['pitted_surface', 'rolled-in_scale',"scratches","crazing","inclusion","patches"]

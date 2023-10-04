@@ -1,0 +1,9 @@
+train: "/gpfs/scratch/rayen/YOLOv8/datasets/metatrain/images/train/"
+val: "/gpfs/scratch/rayen/YOLOv8/datasets/metatrain/images/validation/"
+
+nc: 3
+names: {
+    0: 'rolled-in_scale',
+    1: 'scratches',
+    2: 'inclusion',
+    }

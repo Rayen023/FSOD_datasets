@@ -1,0 +1,14 @@
+ENV/
+*.csv
+*.xlsx
+*.log
+*.out
+*.t
+*.pt
+*.parquet
+*.jpg
+*.png
+*.txt
+*.zip
+*.cache
+*.json

@@ -1,0 +1,17 @@
+train: images/train  # train images (relative to 'path')  1600 images
+val: images/val  # train images (relative to 'path')  1600 images
+
+
+nc: 4 # number of classes
+
+names: [
+  knot_with_crack,
+  Live_Knot,
+  Dead_Knot,
+  Crack,
+]
+
+
+
+
+

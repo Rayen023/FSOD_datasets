@@ -1,0 +1,9 @@
+train: "images/train"
+val: "images/validation"
+
+nc: 3
+names: {
+    0: 'pitted_surface',
+    1: 'crazing',
+    2: 'patches'
+    }

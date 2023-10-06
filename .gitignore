@@ -6,9 +6,8 @@ ENV/
 *.t
 *.pt
 *.parquet
+*.zip
+*.cache
 *.jpg
 *.png
 *.txt
-*.zip
-*.cache
-
